@@ -10,4 +10,4 @@ The map can be interactively navigated [here](https://olhadanylo.users.earthengi
 
 ## Example screenshots
 
-<img src="https://github.com/odanylo/oilpalmSEasia/blob/master/figures/figure_2_300.png" width="80%" align="center">
+<img src="https://github.com/odanylo/oilpalmSEasia/blob/master/figures/figure_2_300.png" width="100%" align="center">
