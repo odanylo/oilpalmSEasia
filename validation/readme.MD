@@ -9,4 +9,4 @@ The validation data was collected using Picture Pile app. A separate campaign wa
 
 ## Map with validation results
 
-src="https://github.com/odanylo/oilpalmSEasia/blob/master/figures/validation_PicturePile_300.png" width="30%">
+<img src="https://github.com/odanylo/oilpalmSEasia/blob/master/figures/validation_PicturePile_300.png" width="30%">
