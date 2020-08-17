@@ -1,4 +1,10 @@
 # High-resolution oil palm detection across South-East Asia
+​
+12
+![oil palm example](https://github.com/odanylo/oilpalm/blob/master/figures/example_1.png) { width=50% }
+13
+![oil palm example](https://github.com/odanylo/oilpalm/blob/master/figures/example_2.png) { width=50% }
+14
 
 Increasing demand of oil palm causes more area being allocated to this crop. Over the last decade between 2010 and 2017 the global oil palm area expanded from 10 to 21 Million hectares, causing biodiversity loss and increasing greenhouse gas emissions. In order to support the drive for sustainability in the oil palm industry, it is important to develop a methodology to map large oil palm plantations as well as smallholder fields. There are several studies focusing on mapping oil palm, but developed approaches usually  deploy expert-based interpretation methods or semi-automatic classification blended with extensive field information .
 
@@ -6,5 +12,5 @@ In this study we develop an approach to map oil palm on a large scale for South 
 
 We present our mapping results for Indonesia, Malaysia and Thailand and compare them with those from other studies. We discuss the importance of independent validation and demonstrate our approach to accuracy assessment of our product. We test transferability of the developed approach to other areas, including Brazil and Cameroon. Using the Google Earth Engine capabilities, we are planning to scale the approach to the tropics and produce the first large scale oil palm plantation map.
 
-![oil palm example](https://github.com/odanylo/oilpalm/blob/master/figures/example_1.png) { width=50% }
-![oil palm example](https://github.com/odanylo/oilpalm/blob/master/figures/example_2.png) { width=50% }
+<img src="https://github.com/odanylo/oilpalm/blob/master/figures/example_1.png" width="40%">
+<img src="https://github.com/odanylo/oilpalm/blob/master/figures/example_2.png" width="40%">
