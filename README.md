@@ -8,5 +8,7 @@ In this study we develop an approach to map oil palm on a large scale for South 
 
 The map can be interactively navigated [here](https://olhadanylo.users.earthengine.app/view/oilpalmseasia).
 
+## Example screenshots
+
 <img src="https://github.com/odanylo/oilpalmSEasia/blob/master/figures/figure_1_300.png" width="80%"  align="center"> 
 <img src="https://github.com/odanylo/oilpalmSEasia/blob/master/figures/figure_2_300.png" width="80%" align="center">
