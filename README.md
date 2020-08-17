@@ -1,4 +1,4 @@
-# High-resolution oil palm detection across South-East Asia
+## High-resolution oil palm detection across South-East Asia
 
 Increasing demand of oil palm causes more area being allocated to this crop. Over the last decade between 2010 and 2017 the global oil palm area expanded from 10 to 21 Million hectares, causing biodiversity loss and increasing greenhouse gas emissions. In order to support the drive for sustainability in the oil palm industry, it is important to develop a methodology to map large oil palm plantations as well as smallholder fields. There are several studies focusing on mapping oil palm, but developed approaches usually  deploy expert-based interpretation methods or semi-automatic classification blended with extensive field information .
 
