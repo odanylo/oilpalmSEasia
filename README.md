@@ -6,5 +6,5 @@ In this study we develop an approach to map oil palm on a large scale for South 
 
 We present our mapping results for Indonesia, Malaysia and Thailand and compare them with those from other studies. We discuss the importance of independent validation and demonstrate our approach to accuracy assessment of our product. We test transferability of the developed approach to other areas, including Brazil and Cameroon. Using the Google Earth Engine capabilities, we are planning to scale the approach to the tropics and produce the first large scale oil palm plantation map.
 
-![oil palm example](https://github.com/odanylo/oilpalm/blob/master/figures/example_1.png)
-![oil palm example](https://github.com/odanylo/oilpalm/blob/master/figures/example_2.png)
+![oil palm example](https://github.com/odanylo/oilpalm/blob/master/figures/example_1.png=0.5x)
+![oil palm example](https://github.com/odanylo/oilpalm/blob/master/figures/example_2.png=0.5x)
